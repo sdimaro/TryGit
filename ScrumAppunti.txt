@@ -1,0 +1,48 @@
+SCRUM:
+
+Stakeholder: chi è interessato al softwer, possono essere clienti utilizzatori e finanziatori:ù
+specifiche del progetto = user stories.
+Produt Backlog: informazioni disponibili, tutte le specifiche  (le user stories)
+Product owner: gestisce gli nteressi attorno al progetto, scrive le user stories, descrive quale è fondamentale a meno fondamentale. (definisce le priorità e le inserisce nel backlog).
+
+Scrum master: guida il team,m si occupa che vengano rispettate le regole SCRUM, verificare che si applichi un metodo corretto. (non è il team leader, ma ha l'autorità per applicare le norme).
+Mantiene il team di sviluppo concentrato.
+
+Team di sviluppo:  quel gruppo di ppersone responsabile delle varie consegne che vanno effettuate, generalmente da 3 a 9 persone, a volte ognuno con più funzioni da svolgere 
+i membri si occupano di tutte le fasi:
+- analisi
+- sviluppo
+- test
+- documentazione etc
+SI AUTO ORGANIZZA
+
+Eventi Scrum:  TUTTI TIMEBOXED = OVVERO CON LIMITI DI TEMPO DA RISPETTARE
+1) Backlog refinement: costruzione di tutte le specifiche del nostro software, poi il product owner le presenta al team, assegnando le priorità.  DONE = Specifica che viene realizzata completamente. 15% del tempo.
+
+2) Sprint Planning: all'inizio di ogni sprint scelgo quali user stories  programmare nei successivi cicli di progettazione CIRCA 2H a settimana.
+3b) Sprint Backlog: il team sceglie stories che si impegna a completare in quello sprint in base alle prorità.
+2b) Sprint Goal: fornire agli stakeholder una descrizione di che verrà realizzato durante lo sprint.
+3) Sprint: fase in cui il team lavora
+
+
+4) Sprint reviwew: fase di rilascio di psrte di codice, fine di ogni sprint si rilascia codice DONE, team mostra agli stakeholder il progetto per 1 h fine sprint e si valuta la DEMO realizzata dal team durante lo sprint (fase di  controllo con stakeholder)
+
+5) Sprint retrospcctiv: verifico ciò che è andato bene e ciò che è andato male e come è stato applicato il metodo, si controlla il processo e non il prodtto  partecipano team e scrum master.
+
+STIMA = misurata in tempo; si utilizza la sequenza di Fibonacci; 	esempio se un attività mi stima 10h la inserisco nel contenitore di 13h   
+Planning Story: si alza una carta con la stima per ogni user stories, e bisogna confrontarsi . 
+
+Definition of Done (DoD): codice commentato, standard di progetto, errori nel codice, user story funziona correttamente ecc...
+
+
+Daily Scrum: partecipano team e scrum master: in 15 minuti si fanno 3 domande:
+cosa si è fatto ieri?
+cosa farò oggi?
+quali sono gli impedimenti che hai riscontrato?
+
+Release a Burndown chart:  diagramma numero di sprint e user stories riamnenti  per vedere la produttività del team.  (Si contano solo le sotries con DONE)
+
+Sprint 
+
+
+
